@@ -1,4 +1,4 @@
-package mywork;
+
 
 import java.time.Duration;
 
