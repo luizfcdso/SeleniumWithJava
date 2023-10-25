@@ -11,7 +11,7 @@ import org.testng.Assert;
 public class JavaStreamsClass1 {
 
 	
-	@Before
+	@Test
 	public void regular() {
 		ArrayList<String> names = new ArrayList<String>();
 		names.add("Luiz");
